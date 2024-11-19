@@ -1,0 +1,2 @@
+# firstvt_and_lastvt
+firstvt和lastvt的简单计算
